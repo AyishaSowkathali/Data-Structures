@@ -1,0 +1,167 @@
+================================
+passed test on empty List X & Y
+================================
+test case 1 of 990000
+initial X: -6  -6  -1  1  1  2  
+initial Y: -8  -8  -8  -7  -2  -2  0  1  1  8  
+ought2b Z: -8  -8  -8  -7  -6  -6  -2  -2  -1  0  1  1  1  1  2  8  
+outcome Z: -8  -8  -8  -7  -6  -6  -2  -2  -1  0  1  1  1  1  2  8  
+================================
+test case 2 of 990000
+initial X: 1  6  
+initial Y: 
+ought2b Z: 1  6  
+outcome Z: 1  6  
+================================
+test case 3 of 990000
+initial X: -4  -3  -2  -2  3  
+initial Y: 
+ought2b Z: -4  -3  -2  -2  3  
+outcome Z: -4  -3  -2  -2  3  
+================================
+test case 4 of 990000
+initial X: -9  -5  -5  -4  -3  4  5  6  7  8  
+initial Y: -8  -7  -7  -6  0  0  5  5  7  7  
+ought2b Z: -9  -8  -7  -7  -6  -5  -5  -4  -3  0  0  4  5  5  5  6  7  7  7  8  
+outcome Z: -9  -8  -7  -7  -6  -5  -5  -4  -3  0  0  4  5  5  5  6  7  7  7  8  
+================================
+test case 5 of 990000
+initial X: -8  -6  -5  -4  5  6  
+initial Y: -4  7  
+ought2b Z: -8  -6  -5  -4  -4  5  6  7  
+outcome Z: -8  -6  -5  -4  -4  5  6  7  
+================================
+test case 45000 of 990000
+initial X: 
+initial Y: -9  1  7  
+ought2b Z: -9  1  7  
+outcome Z: -9  1  7  
+================================
+test case 90000 of 990000
+initial X: -1  1  
+initial Y: -7  -5  9  
+ought2b Z: -7  -5  -1  1  9  
+outcome Z: -7  -5  -1  1  9  
+================================
+test case 135000 of 990000
+initial X: -8  -6  -4  -3  3  3  4  9  
+initial Y: 
+ought2b Z: -8  -6  -4  -3  3  3  4  9  
+outcome Z: -8  -6  -4  -3  3  3  4  9  
+================================
+test case 180000 of 990000
+initial X: -9  -2  3  4  
+initial Y: -8  6  
+ought2b Z: -9  -8  -2  3  4  6  
+outcome Z: -9  -8  -2  3  4  6  
+================================
+test case 225000 of 990000
+initial X: 6  
+initial Y: 
+ought2b Z: 6  
+outcome Z: 6  
+================================
+test case 270000 of 990000
+initial X: -7  -4  -1  -1  -1  2  5  5  
+initial Y: -8  -5  3  
+ought2b Z: -8  -7  -5  -4  -1  -1  -1  2  3  5  5  
+outcome Z: -8  -7  -5  -4  -1  -1  -1  2  3  5  5  
+================================
+test case 315000 of 990000
+initial X: 1  
+initial Y: -3  -2  -1  -1  0  3  5  7  8  
+ought2b Z: -3  -2  -1  -1  0  1  3  5  7  8  
+outcome Z: -3  -2  -1  -1  0  1  3  5  7  8  
+================================
+test case 360000 of 990000
+initial X: 
+initial Y: -8  -5  -2  0  5  8  9  
+ought2b Z: -8  -5  -2  0  5  8  9  
+outcome Z: -8  -5  -2  0  5  8  9  
+================================
+test case 405000 of 990000
+initial X: -9  -8  -6  -6  -4  
+initial Y: -7  -5  -3  -3  -2  1  4  9  
+ought2b Z: -9  -8  -7  -6  -6  -5  -4  -3  -3  -2  1  4  9  
+outcome Z: -9  -8  -7  -6  -6  -5  -4  -3  -3  -2  1  4  9  
+================================
+test case 450000 of 990000
+initial X: -1  1  4  6  9  
+initial Y: 1  8  8  9  
+ought2b Z: -1  1  1  4  6  8  8  9  9  
+outcome Z: -1  1  1  4  6  8  8  9  9  
+================================
+test case 495000 of 990000
+initial X: -7  -5  -1  -1  2  4  4  4  6  6  
+initial Y: -5  -5  0  2  7  
+ought2b Z: -7  -5  -5  -5  -1  -1  0  2  2  4  4  4  6  6  7  
+outcome Z: -7  -5  -5  -5  -1  -1  0  2  2  4  4  4  6  6  7  
+================================
+test case 540000 of 990000
+initial X: -1  -1  1  3  5  7  8  
+initial Y: -5  -5  -1  3  3  6  8  8  9  
+ought2b Z: -5  -5  -1  -1  -1  1  3  3  3  5  6  7  8  8  8  9  
+outcome Z: -5  -5  -1  -1  -1  1  3  3  3  5  6  7  8  8  8  9  
+================================
+test case 585000 of 990000
+initial X: -6  3  9  
+initial Y: 
+ought2b Z: -6  3  9  
+outcome Z: -6  3  9  
+================================
+test case 630000 of 990000
+initial X: -5  -4  3  6  
+initial Y: -4  -2  4  
+ought2b Z: -5  -4  -4  -2  3  4  6  
+outcome Z: -5  -4  -4  -2  3  4  6  
+================================
+test case 675000 of 990000
+initial X: -2  3  
+initial Y: 
+ought2b Z: -2  3  
+outcome Z: -2  3  
+================================
+test case 720000 of 990000
+initial X: 
+initial Y: -8  0  
+ought2b Z: -8  0  
+outcome Z: -8  0  
+================================
+test case 765000 of 990000
+initial X: -9  -9  -7  -5  3  4  6  6  8  
+initial Y: -9  -7  6  7  7  8  8  
+ought2b Z: -9  -9  -9  -7  -7  -5  3  4  6  6  6  7  7  8  8  8  
+outcome Z: -9  -9  -9  -7  -7  -5  3  4  6  6  6  7  7  8  8  8  
+================================
+test case 810000 of 990000
+initial X: 
+initial Y: -7  -3  0  0  3  5  7  9  
+ought2b Z: -7  -3  0  0  3  5  7  9  
+outcome Z: -7  -3  0  0  3  5  7  9  
+================================
+test case 855000 of 990000
+initial X: -9  -7  -1  -1  0  3  9  
+initial Y: -8  -2  5  7  9  
+ought2b Z: -9  -8  -7  -2  -1  -1  0  3  5  7  9  9  
+outcome Z: -9  -8  -7  -2  -1  -1  0  3  5  7  9  9  
+================================
+test case 900000 of 990000
+initial X: -7  -6  -4  -1  0  8  
+initial Y: -9  -5  -4  -3  0  2  5  7  8  
+ought2b Z: -9  -7  -6  -5  -4  -4  -3  -1  0  0  2  5  7  8  8  
+outcome Z: -9  -7  -6  -5  -4  -4  -3  -1  0  0  2  5  7  8  8  
+================================
+test case 945000 of 990000
+initial X: 
+initial Y: -9  -7  -6  -5  -2  3  6  7  9  
+ought2b Z: -9  -7  -6  -5  -2  3  6  7  9  
+outcome Z: -9  -7  -6  -5  -2  3  6  7  9  
+================================
+test case 990000 of 990000
+initial X: -4  0  0  1  4  4  6  9  
+initial Y: -5  -3  1  1  2  2  6  6  6  9  
+ought2b Z: -5  -4  -3  0  0  1  1  1  2  2  4  4  6  6  6  6  9  9  
+outcome Z: -5  -4  -3  0  0  1  1  1  2  2  4  4  6  6  6  6  9  9  
+================================
+test program terminated normally
+================================
